@@ -1,0 +1,17 @@
+integer whole numeric value
+float decimal values
+string '' "" ''' '''
+boolean true or false
+none when we don't have a value to assign
+
+
+
+
+pascal case harword ka first letter capital 
+camel case first word ka first letter chota baki sabka 
+testPrice jese bada hota hai baki sabka
+
+test_case underscore wala sake case hai
+
+python =snake case
+
